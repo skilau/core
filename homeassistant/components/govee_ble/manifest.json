@@ -83,6 +83,10 @@
       "manufacturer_id": 19506,
       "service_uuid": "00001801-0000-1000-8000-00805f9b34fb",
       "connectable": false
+    },
+    {
+      "manufacturer_id": 61320,
+      "connectable": false
     }
   ],
   "codeowners": ["@bdraco", "@PierreAronnax"],
