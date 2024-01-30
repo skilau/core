@@ -205,6 +205,11 @@ BLUETOOTH: list[dict[str, bool | str | int | list[int]]] = [
         "service_uuid": "00001801-0000-1000-8000-00805f9b34fb",
     },
     {
+        "connectable": False,
+        "domain": "govee_ble",
+        "manufacturer_id": 61320,
+    },
+    {
         "domain": "homekit_controller",
         "manufacturer_data_start": [
             6,
